@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uday123kushwah
-- 👀 I’m interested in ...Codeing
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...Coding
+- 🌱 I’m currently learning ...python and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
